@@ -9,7 +9,7 @@ public class MyFirstBoard {
 	public static void main(String[] args) {
 		controller.setColor(5, 5, 127, 127, 127);
 		controller.updateLedStripe();
-
+		System.out.println("Some Changes");
 		
 	}
 
